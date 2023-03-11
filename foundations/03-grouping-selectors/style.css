@@ -1,0 +1,16 @@
+/* rule 1 */
+.one,.two{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman,sans-serif;
+}
+
+/* rule 2 */
+.one {
+    color: white;
+    background-color: black
+    
+}
+
+.two {
+    background-color: yellow;
+}

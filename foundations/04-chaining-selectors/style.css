@@ -1,0 +1,10 @@
+/* element one */
+.avatarproportioned {
+    height: auto;
+    width: 300px;
+}
+/*element two */
+.avatardistorted {
+    height: 400px;
+    width: 200px;
+}
